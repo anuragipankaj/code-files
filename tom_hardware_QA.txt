@@ -1,0 +1,53 @@
+wesbite : http://www.tomshardware.com
+
+Q/A observation
+
+1)homepage :
+	 -Top bar
+	 	1. buying guides : link attached to it not working(undefined)
+	 	2. overlapping with searchbar suggestion content.
+	 -Below carousal  (right side)
+	 	-(from our community)
+			1. search option working as a link
+	 -Bottom section
+	 	-contact us
+	 		1.leads to purch contact instead of tomhardware contact.
+
+
+
+*** width of content page of other section( product review ,gaming,buying guides ) is smaller than the main page-- causing overlapping with the content.
+
+
+1) Product review in TOP BAR section
+	-dont have images in this section.
+
+2) Gaming  in TOP BAR section
+	-Content section
+		- one or more box space everytime
+		- on clicking on any News,reviews,features the other optins goes invisible ,then we need to press back button.
+
+3)Comment section
+	-two options for adding comment
+	-it shows '6 comments' intead of 'display 6 commnents' in some posts
+	-cant vote for any comment( it will show 'you have already voted')
+	-reply to any comment shows 'annonymous said ' instead of username.
+	-BAN after one spam comment.
+
+4)Profile (right of search bar in main page)
+	-cant edit signature ,computer setup info
+	-ACCOUNT SETTING 
+		-cant close popup for change passwords.
+
+5) Deals  in TOP BAR section
+	-In content section,some products dont have images.
+
+
+6) Forum section  in TOP BAR section
+	-Maine page
+		-ALL CATEGORIES 
+			-Collapse dont work properly( half open)
+		-Bottom section
+			-map : undefined link on maps - index.html#
+
+
+
