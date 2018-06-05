@@ -6,6 +6,8 @@ Q/A observation
 	 -Top bar
 	 	1. buying guides : link attached to it not working(undefined)
 	 	2. overlapping with searchbar suggestion content.
+	 	3. COMPUTEX,DEALS,NEWS,FORUM  sections dont have any options list.
+
 	 -Below carousal  (right side)
 	 	-(from our community)
 			1. search option working as a link
@@ -15,7 +17,7 @@ Q/A observation
 
 
 
-*** width of content page of other section( product review ,gaming,buying guides ) is smaller than the main page-- causing overlapping with the content.
+*** width of content page of other section( product review ,gaming,buying guides ) is smaller than the main page-- causing overlapping with the profile button at the top.
 
 
 1) Product review in TOP BAR section
